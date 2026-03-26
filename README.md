@@ -1,7 +1,7 @@
 ## ECE330 Digital Alarm Clock
 #### a
 
-### Hardware
+### Hardware and Tools
 #### a
 
 
